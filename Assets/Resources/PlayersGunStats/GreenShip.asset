@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff667d420c783ae4ba4e1bb41bddf06c, type: 3}
+  m_Name: GreenShip
+  m_EditorClassIdentifier: 
+  _damage: 0.4
+  _fireRate: 0.2
+  _bulletPrefab: {fileID: 3869608395680415775, guid: addbf233c62f19840b2aad99964a315d, type: 3}
+  leftGunLeftPos: {x: 0, y: 0}
+  leftGunRightPos: {x: 0, y: 0}
+  leftGunCentralPos: {x: -20, y: 0}
+  rightGunLeftPos: {x: 0, y: 0}
+  rightGunRightPos: {x: 0, y: 0}
+  rightGunCentralPos: {x: 20, y: 0}

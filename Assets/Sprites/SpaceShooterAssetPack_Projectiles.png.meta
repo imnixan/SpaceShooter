@@ -1,0 +1,1279 @@
+fileFormatVersion: 2
+guid: 9f6d30b41aee30d40bd8f8a842c78154
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2865407a8567c946b09bd04f84ecc02
+      internalID: 1045679588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5eac6d015579a43b80526a6cd264a7
+      internalID: -779174726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85580e9ecd30514fb85e08cc72d6eda
+      internalID: -2051642245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cfe5c45424c3248a444180c2682e21
+      internalID: 890302130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7376d0c6e593d749b9c0064e795c40a
+      internalID: 662159643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e11be5f6e3bfd4a85ab36e73c36950
+      internalID: 2057773220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd09913e1d579c447b0d328da4ddc647
+      internalID: 1895902777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf44adb0be536474d8f0ea1752be27a7
+      internalID: -614184176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 17
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385ea1fc00b011a44b210ccfd2f151a0
+      internalID: -790954706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 17
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcd3900b6577f941a5149cc6c32611d
+      internalID: 801357720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31670e6b9689084eae030a60e21727d
+      internalID: -1952339873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 25
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a193f5e0b88334d99e8ca6cc62f936
+      internalID: 2121528059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d34136c44b79cd4ab6a20003fd24207
+      internalID: -806315172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfaef39560ae574880b331dd1cb8184
+      internalID: -1528138306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf00f3b5dc334d642bbf81b6416d9102
+      internalID: -1547157337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171ca6f19c3af0843afbd5861ee9b0a0
+      internalID: 386097274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a118693a017440846b38b916587d65ee
+      internalID: 114414457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33457c7771ef3eb46bbf7ef617c9ed3b
+      internalID: 320796751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529efecdbf66df44e8dad15c7b443cc6
+      internalID: -1581176549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d360b53148cc64faba9ed66a802d9c
+      internalID: -251359751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702dab2f89bd65f43ab88a1deb66b082
+      internalID: -2081058614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 34
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd5ffb774b493141b3e117904c20d55
+      internalID: -775689359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 42
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b07ec6b114cf84eb5cd29a21e0af44
+      internalID: -1164736350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b619fb1c519f0047bf24d32ec58aa5d
+      internalID: -943620415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4ab9c2331d7f14a908959c70507586
+      internalID: -1374976304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_25
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6d67e1dd9510147b6f71dfa0152970
+      internalID: -391136984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 42
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee83e851ec9b7c43842703391922295
+      internalID: 1778515539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_27
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 41
+        width: 3
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0fb15f9be226842b26661d692bf93b
+      internalID: 38858039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 49
+        width: 3
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6128cd918bab4eb4e974302fbb385f0f
+      internalID: 1825857419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_29
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 49
+        width: 3
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea275a569f3a524598a60236ac399e8
+      internalID: 1244901362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 49
+        width: 3
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053055fd131da9844a02ed7ea755f817
+      internalID: 1555388431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_31
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 50
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b98740ece5182489f0dd046eaaeb31
+      internalID: 1756108606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_32
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 49
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9891d9fb2dc149d4db6921f5f8f008cb
+      internalID: 372748801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 50
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c349c54be03beb45a29a6529f1e448e
+      internalID: 521231995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 58
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99f553868dbe2844b20c694d07fd581
+      internalID: 999616829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_35
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 57
+        width: 3
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b71b62b94b239499c378bb84aca076
+      internalID: 1852486616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 59
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83141c107aae4304ea4c0828405f3a89
+      internalID: -1487905731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_37
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 58
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9f732a9489e804a81967f66a1dadaa
+      internalID: -506411789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_38
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 58
+        width: 2
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f7db66134b4194792d605e171c5b91
+      internalID: -1717419656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_39
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 58
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96242f09679a3ef47a251903eca3d98b
+      internalID: -1258021586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 65
+        width: 3
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4343a439877709a439a03f1de6ec486e
+      internalID: 5105757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_41
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 65
+        width: 3
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b0dd90b6c038448b7a231114c0330b
+      internalID: -1859008177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe8034a6a3e8724c989918fa5f92164
+      internalID: -1778824452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_43
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d389e638ede53542a03b4d71c54bfd9
+      internalID: 1069240007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_44
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 67
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52febca85fdcc844c954f04af67b20f3
+      internalID: -367478953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 67
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7f210d994f72644a16bbc863a509b0
+      internalID: 521464903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_46
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 75
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9027a0539163af544b202db64d595564
+      internalID: -996576644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_47
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 74
+        width: 1
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4d82a3a67cb9240913125e37649dbd
+      internalID: 1086629304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerBullet
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 74
+        width: 1
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7c12eff63b8cb4dba3d3d9bc5d5829
+      internalID: 628838917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_49
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 74
+        width: 2
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b23c3f2e4087041aaaadf153738e69
+      internalID: 1780456757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_50
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 75
+        width: 3
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557b7fe3ea071db49baaf45640eb43b2
+      internalID: 1131678918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceShooterAssetPack_Projectiles_51
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 75
+        width: 4
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76885de1bdbc8464cb5d1278a7208dee
+      internalID: -135303722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpaceShooterAssetPack_Projectiles_0: 1045679588
+      SpaceShooterAssetPack_Projectiles_1: -779174726
+      SpaceShooterAssetPack_Projectiles_10: -1952339873
+      SpaceShooterAssetPack_Projectiles_11: 2121528059
+      SpaceShooterAssetPack_Projectiles_12: -806315172
+      SpaceShooterAssetPack_Projectiles_13: -1528138306
+      SpaceShooterAssetPack_Projectiles_14: -1547157337
+      SpaceShooterAssetPack_Projectiles_15: 386097274
+      SpaceShooterAssetPack_Projectiles_16: 114414457
+      SpaceShooterAssetPack_Projectiles_17: 320796751
+      SpaceShooterAssetPack_Projectiles_18: -1581176549
+      SpaceShooterAssetPack_Projectiles_19: -251359751
+      SpaceShooterAssetPack_Projectiles_2: -2051642245
+      SpaceShooterAssetPack_Projectiles_20: -2081058614
+      SpaceShooterAssetPack_Projectiles_21: -775689359
+      SpaceShooterAssetPack_Projectiles_22: -1164736350
+      SpaceShooterAssetPack_Projectiles_23: -943620415
+      SpaceShooterAssetPack_Projectiles_24: -1374976304
+      SpaceShooterAssetPack_Projectiles_25: -391136984
+      SpaceShooterAssetPack_Projectiles_26: 1778515539
+      SpaceShooterAssetPack_Projectiles_27: 38858039
+      SpaceShooterAssetPack_Projectiles_28: 1825857419
+      SpaceShooterAssetPack_Projectiles_29: 1244901362
+      SpaceShooterAssetPack_Projectiles_3: 890302130
+      SpaceShooterAssetPack_Projectiles_30: 1555388431
+      SpaceShooterAssetPack_Projectiles_31: 1756108606
+      SpaceShooterAssetPack_Projectiles_32: 372748801
+      SpaceShooterAssetPack_Projectiles_33: 521231995
+      SpaceShooterAssetPack_Projectiles_34: 999616829
+      SpaceShooterAssetPack_Projectiles_35: 1852486616
+      SpaceShooterAssetPack_Projectiles_36: -1487905731
+      SpaceShooterAssetPack_Projectiles_37: -506411789
+      SpaceShooterAssetPack_Projectiles_38: -1717419656
+      SpaceShooterAssetPack_Projectiles_39: -1258021586
+      SpaceShooterAssetPack_Projectiles_4: 662159643
+      SpaceShooterAssetPack_Projectiles_40: 5105757
+      SpaceShooterAssetPack_Projectiles_41: -1859008177
+      SpaceShooterAssetPack_Projectiles_42: -1778824452
+      SpaceShooterAssetPack_Projectiles_43: 1069240007
+      SpaceShooterAssetPack_Projectiles_44: -367478953
+      SpaceShooterAssetPack_Projectiles_45: 521464903
+      SpaceShooterAssetPack_Projectiles_46: -996576644
+      SpaceShooterAssetPack_Projectiles_47: 1086629304
+      SpaceShooterAssetPack_Projectiles_49: 1780456757
+      SpaceShooterAssetPack_Projectiles_5: 2057773220
+      SpaceShooterAssetPack_Projectiles_50: 1131678918
+      SpaceShooterAssetPack_Projectiles_51: -135303722
+      SpaceShooterAssetPack_Projectiles_6: 1895902777
+      SpaceShooterAssetPack_Projectiles_7: -614184176
+      SpaceShooterAssetPack_Projectiles_8: -790954706
+      SpaceShooterAssetPack_Projectiles_9: 801357720
+      playerBullet: 628838917
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
